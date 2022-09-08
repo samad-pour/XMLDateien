@@ -57,4 +57,7 @@ Es sollen mehrere Objekte einer Klasse in einer XML-Datei gespeichert werden.
 ##	4 Lesen von Objekten
 
 Nun sollen mehrere Objekte einer Klasse aus einer XML-Datei gelesen werden.
- 
+
+# Screenshot
+
+![image](https://user-images.githubusercontent.com/110610894/189124967-71002996-9b6c-4880-b8da-82b3a5d0529f.png)
